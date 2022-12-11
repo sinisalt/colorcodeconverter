@@ -1,11 +1,11 @@
 {
-    "name": "laracon21/colorcodeconverter",
+    "name": "sinisalt/colorcodeconverter",
     "description": "My awesome package",
     "keywords": [
-        "laracon21",
+        "sinisalt",
         "colorcodeconverter"
     ],
-    "homepage": "https://github.com/laracon21/colorcodeconverter",
+    "homepage": "https://github.com/sinisalt/colorcodeconverter",
     "license": "MIT",
     "type": "library",
     "authors": [
